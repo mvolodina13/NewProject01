@@ -41,3 +41,6 @@ The following example demonstrates a common scenario in Git-based development. L
 `git commit --amend --no-edit`  
 
 The `--no-edit` flag will allow you to make the amendment to your commit without changing its commit message. The resulting commit will replace the incomplete one, and it will look like we committed the changes to `hello.py` and `main.py` in a single snapshot.
+
+* **Amending older or multiple commit messages**
+If you have already pushed the commit to GitHub.com, you will have to force push a commit with an amended message. **We strongly discourage force pushing, since this changes the history of your repository. If you force push, people who have already cloned your repository will have to manually fix their local history.**
