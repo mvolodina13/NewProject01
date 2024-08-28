@@ -44,3 +44,6 @@ The `--no-edit` flag will allow you to make the amendment to your commit without
 
 * **Amending older or multiple commit messages**
 If you have already pushed the commit to GitHub.com, you will have to force push a commit with an amended message. **We strongly discourage force pushing, since this changes the history of your repository. If you force push, people who have already cloned your repository will have to manually fix their local history.**
+
+
+More changes added
