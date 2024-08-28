@@ -47,3 +47,4 @@ If you have already pushed the commit to GitHub.com, you will have to force push
 
 
 More changes added
+Changes added from 1.2 Branch
